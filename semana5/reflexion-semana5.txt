@@ -1,0 +1,7 @@
+PREGUNTA#9
+R//
+Yo puedo ayudar agregando reportes, alertas o información a través de la API,
+ para que otros miembros de la comunidad puedan acceder a datos organizados y
+ actualizados. De esta manera, se mejora la comunicació, se evitan confusiones y
+ se facilita la toma de decisiones para resolver problemas o actuar a tiempo.”.
+

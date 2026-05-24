@@ -1,0 +1,9 @@
+PREGUNTAS#7 
+R//
+http://localhost:3000⁠�
+Es la ruta principal ("/"). Generalmente muestra un mensaje básico como “Bienvenido” o la página inicial.
+http://localhost:3000/saludo⁠�
+Es una ruta específica. El servidor responde con un mensaje fijo, por ejemplo: “Hola” o “Saludos”.
+http://localhost:3000/mensaje/juan⁠�
+Es una ruta con parámetro dinámico. “juan” es un valor que cambia. El servidor lo recibe y responde algo como: “Hola Juan” o “Mensaje para Juan”.
+En resumen: la primera es general, la segunda es fija, y la tercera es dinámica (cambia según el nombre que pongas

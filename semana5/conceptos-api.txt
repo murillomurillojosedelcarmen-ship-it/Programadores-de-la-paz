@@ -1,0 +1,10 @@
+PREGUNTA#8
+
+¿QUE ES RUTA?
+R//Ruta se define cómo el servidor
+ responde a una solicitud del usuario
+
+
+¿PARA QUE PODRIA  SIRVE UNA APLICACION COMUNITARIA?
+R//Es una herramienta digital creada para apoyar
+ necesidades de una comunidad.
